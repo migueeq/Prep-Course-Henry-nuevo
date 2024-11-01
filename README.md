@@ -1,2 +1,2 @@
-# Prep-Course-Henry-nuevo
-Este es un nuevo repositorio de prueba del modulo2 del PrepCourse de Henry 
+Este proyecto es una nueva prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio local
+Miguel Quintana
